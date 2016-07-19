@@ -1,7 +1,8 @@
 """
-Implementation of a Serial Monitor for reading the value of a potentiometer.
+Implementation of a Serial Monitor 
+for reading the value of a potentiometer.
+
 """
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import pingo
 import time
